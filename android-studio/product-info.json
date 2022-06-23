@@ -1,0 +1,17 @@
+{
+  "name": "Android Studio",
+  "version": "dev build",
+  "buildNumber": "203.7717.56.2031.7621141",
+  "productCode": "AI",
+  "dataDirectoryName": "AndroidStudio2020.3",
+  "svgIconPath": "bin/studio.svg",
+  "launch": [
+    {
+      "os": "Linux",
+      "launcherPath": "bin/studio.sh",
+      "vmOptionsFilePath": "bin/studio64.vmoptions",
+      "startupWmClass": "jetbrains-studio"
+    }
+  ],
+  "customProperties": []
+}
